@@ -19,5 +19,7 @@ int main()
     cout<<"la raiz cuadrada es: "<<raiz<<endl;
     cout<<"la potencia del numero es: "<<potencia<<endl;
     cout<<"la potencia del numero es: "<<potencia<<endl;
+      cout<<"la potencia del numero es: "<<potencia<<endl;
+      cout<<"la potencia del numero es: "<<potencia<<endl;
 
     return 0;
